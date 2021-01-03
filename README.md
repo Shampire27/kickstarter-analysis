@@ -12,7 +12,7 @@ For selecting a suitable launch date for Louise's play Fever to ensure the succe
 
 ![Theater_Outcomes_vs_Launch](/Theater_Outcomes_vs_Launch.png)
 
-###Analysis - Outcomes Based on Goals
+### Analysis - Outcomes Based on Goals
 
 * The Purpose of **"Outcomes Based on Goals"** visualized the data of posibility of successful, failed or canceled for plays under each range of goals.  This chart determins the posibility of outcomes in different range of goal for the plays, in order to predict the posibile outcome for Fever based on the fundraising goal amount.
 
