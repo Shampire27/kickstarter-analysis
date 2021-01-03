@@ -18,7 +18,7 @@ For selecting a suitable launch date for Louise's play Fever to ensure the succe
 
 ![Outcomes_vs_Goals](/Outcomes_vs_Goals.png)
 
-More details could be found in [Kickstarter_Challenge](/Kickstarter_Challenge/xlsx/zip)
+More details could be found in [Kickstarter_Challenge](/Kickstarter_Challenge.xlsx.zip)
 
 ### Challenges
 
