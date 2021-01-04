@@ -21,9 +21,9 @@ The purpose of **"Theater Outcomes by Launch Date"** analysis is to present the 
 
 The Purpose of **"Outcomes Based on Goals"** visualized the data of posibility of successful, failed or canceled for plays under each range of goals.  This chart determins the posibility of outcomes in different range of goal for the plays, in order to predict the posibile outcome for Fever based on the fundraising goal amount.
 
-![Outcomes_vs_Goals](/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 
-More details could be found in [Kickstarter_Challenge](/Kickstarter_Challenge.xlsx.zip)
+More details could be found in [Kickstarter_Challenge](/Resources/Kickstarter_Challenge.xlsx.zip)
 
 ### Challenges
 
