@@ -33,14 +33,16 @@ More details could be found in [Kickstarter_Challenge](/Kickstarter_Challenge.xl
 
 ## Results
 - What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-  * The numbers of successful outcomes is the highest over the year.
-  * There is a low posibility to fail in November.
+  * The numbers of successful outcomes is the highest over the year in May. For Maximizing the posibilyty of succeed, Louise could launch the play in May.
+  * There is a low posibility to fail in November. If Louise is a risk avoider, November would be the best period for launching.
 
 - What can you conclude about the Outcomes based on Goals?
-  * 
+  * There is a high posibility to fail if the fundraising goal is between 25000 and 29999.
+  * There is a low possibility (almost 0) that the plays are cancled.
   
 - What are some limitations of this dataset?
-  *
+  * There are file size limitations in Excel. If there is a large number of data in this dataset, Excel might not able to handle.
+  * In the worksheet "Outcomes Based on Goals", there are some data of Goals with large diference with the most of the numbers. These numbers might cause error when making desision based on the calculating results with these factors.
   
 - What are some other possible tables and/or graphs that we could create?
-  * 
+  * We could creat a table for culculation the mean, mode, median and standard diviation of the goal to visualize degree of dispersion for the fundraising goals. Meanwhile quartiles could be calculated for culculating IQR.
