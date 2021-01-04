@@ -15,7 +15,7 @@ The analysis mainly used PivotTable/PivotChart, countif function, and line chart
 
 The purpose of **"Theater Outcomes by Launch Date"** analysis is to present the counts of successful, failed and canceled resords for theater by monthly based statistics of launched dates. Louise could intuitively view the trends of outcomes according the month launched with line chart.
 
-![Theater_Outcomes_vs_Launch](/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### The Overview of Analysis - Outcomes Based on Goals
 
@@ -23,7 +23,7 @@ The Purpose of **"Outcomes Based on Goals"** visualized the data of posibility o
 
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
-More details could be found in [Kickstarter_Challenge](Resources/Kickstarter_Challenge.xlsx.zip)
+More details could be found in [Kickstarter_Challenge](/Kickstarter_Challenge.xlsx.zip)
 
 ### Challenges
 
